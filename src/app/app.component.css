@@ -1,0 +1,16 @@
+/deep/ body {
+    font-family: "Roboto", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  .fusion-logo {
+      margin-top: 0px;
+      margin-bottom: 0px;
+  }
+  .fusion-header, .side-header-background-image {
+      background-image: url(/assets/images/fondo_viewnext3.jpg);
+      background-repeat: repeat;
+      background-attachment: fixed;
+      background-position: top center;
+  }
+  .fusion-standard-logo{
+      padding-top: 30px;
+  }
